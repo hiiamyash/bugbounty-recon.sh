@@ -27,22 +27,22 @@ Nmap scans for service and version detection.
 ### Dependencies
 
 * nmap
-whois
-nslookup
-waybackurls
-Sublist3r
-subfinder
-httpx
-altdns
-dirsearch
-gobuster
-ffuf
-feroxbuster
-bucket-stream
-gitrob
-truffleHog
-PasteHunter
-EyeWitness
+,whois
+,nslookup
+,waybackurls
+,Sublist3r
+,subfinder
+,httpx
+,altdns
+,dirsearch
+,gobuster
+,ffuf
+,feroxbuster
+,bucket-stream
+,gitrob
+,truffleHog
+,PasteHunter
+,EyeWitness
 
 ### Installing
 ```
