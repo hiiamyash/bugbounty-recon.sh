@@ -14,15 +14,15 @@ easy analysis.
 
 ### Features
 
--Subdomain enumeration using Sublist3r and subfinder.
--HTTP probing with httpx for live domain verification.
--Directory brute-forcing with dirsearch, gobuster, and ffuf.
--Historical URL collection and live URL checking with waybackurls and httpx.
--Sensitive data and Git repository scans using truffleHog and gitrob.
--Bucket enumeration with bucket-stream.
--Pastebin monitoring with PasteHunter.
--Visual documentation using EyeWitness.
--Nmap scans for service and version detection.
+- Subdomain enumeration using Sublist3r and subfinder.
+- HTTP probing with httpx for live domain verification.
+- Directory brute-forcing with dirsearch, gobuster, and ffuf.
+- Historical URL collection and live URL checking with waybackurls and httpx.
+- Sensitive data and Git repository scans using truffleHog and gitrob.
+- Bucket enumeration with bucket-stream.
+- Pastebin monitoring with PasteHunter.
+- Visual documentation using EyeWitness.
+- Nmap scans for service and version detection.
 
 ## Getting Started
 
