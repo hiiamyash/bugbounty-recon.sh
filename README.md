@@ -21,7 +21,7 @@ easy analysis.
 - Sensitive data and Git repository scans using truffleHog and gitrob.
 - Bucket enumeration with bucket-stream.
 - Pastebin monitoring with PasteHunter.
-- Visual documentation using EyeWitness.
+- Visual documentation using goWitness.
 - Nmap scans for service and version detection.
 
 ## Getting Started
@@ -46,7 +46,7 @@ easy analysis.
 - gitrob
 - truffleHog
 - PasteHunter
-- EyeWitness
+- goWitness
 
 ---
 ### Installing
